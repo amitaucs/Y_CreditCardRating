@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Random;
-
+//Test
 @RestController
 @Slf4j
 public class CreditRatingController {
